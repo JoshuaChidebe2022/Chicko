@@ -22,7 +22,7 @@ body{
     transform: translateY(8rem);
 }
 .header{
-    height: 103vh;
+    height: 100vh;
     width: 100%;
     display: grid;
     grid-template-columns: 100%;
